@@ -1,4 +1,4 @@
-# Experiment 2: DDL Commands
+[# Experiment 2: DDL Commands
 
 ## AIM
 To study and implement DDL commands and different types of constraints.
@@ -226,3 +226,7 @@ CREATE TABLE Table_Name (
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
+](https://github.com/Deepak-1205/19CS404-
+DBMS-Lab-Manual/tree/main/Experiment
+2_DDL_Commands
+)
