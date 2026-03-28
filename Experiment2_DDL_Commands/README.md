@@ -5,7 +5,10 @@ To study and implement DDL commands and different types of constraints.
 
 ## THEORY
 
-### 1. CREATE
+### 1. CREATEhttps://github.com/Deepak-1205/19CS404-
+DBMS-Lab-Manual/tree/main/Experiment
+2_DDL_Commands
+
 Used to create a new relation (table).
 
 **Syntax:**
